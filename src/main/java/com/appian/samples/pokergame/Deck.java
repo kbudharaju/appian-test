@@ -27,7 +27,7 @@ public class Deck {
                 count++;
             }
         }
-        System.out.println("Total number of cards added = " + count);
+        
         // reset the index to the first card
         nextCardIndex = 0;
         randomNumber = new Random();
